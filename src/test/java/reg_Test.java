@@ -6,8 +6,6 @@
 
 import static org.junit.Assert.*;
 import student_Reg_System_Assignment_1.Student;
-import org.joda.time.DateTime;
-import org.joda.time.format.DateTimeFormat;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
